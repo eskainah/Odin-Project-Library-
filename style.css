@@ -32,7 +32,7 @@
 }
 .nav{
     display: flex;
-    flex-basis: 65%;
+    flex-basis: 72%;
     align-content: center;
     justify-content:space-between; 
 }
