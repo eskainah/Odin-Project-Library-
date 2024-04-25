@@ -26,12 +26,12 @@
 }
 .nav{
     display: flex;
-    flex-basis: 55%;
+    flex-basis: 50%;
     align-content: center;
     justify-content:space-between; 
 }
 .menu{ 
-    font-size: 1.3rem;
+    font-size: 1rem;
     margin-top: 10px;
     display: flex;
     list-style: none;
